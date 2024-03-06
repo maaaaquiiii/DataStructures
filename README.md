@@ -1,1 +1,1 @@
-En este repositorio se encuentran los ejercicios en la asignatura de Estructuras de Datos que se imparte en la Universidad Politécnica de Madrid en el primer año
+In this repository are the practices in the subject of Data Structures taught at the Universidad Politécnica de Madrid in the first year.
